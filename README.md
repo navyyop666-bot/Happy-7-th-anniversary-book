@@ -1,5 +1,5 @@
 # Happy-7-th-anniversary-book
-<!DOCTYPE html>
+<!DECOTYPE html>
 <html lang="hi">
 <head>
     <meta charset="UTF-8">
